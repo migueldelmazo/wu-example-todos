@@ -11,10 +11,10 @@ In this example are used:
   * [Getter item](https://github.com/migueldelmazo/wu/blob/master/docs/documentation-getter.md)
   * [Setter item](https://github.com/migueldelmazo/wu/blob/master/docs/documentation-setter.md)
 * Wu React JS:
- * onChange(): auto render method
- * `this.onEv('setState', 'newItem')`: to run a view method.
- * `this.onEv('addTodo', '#state.newItem')`: to run a Wu setter with state value.
- * `this.onEv(['addTodo', '#state.newItem'], ['setState', 'newItem', ''])`: to execute several methods followed.
+  * onChange(): auto render method
+  * `this.onEv('setState', 'newItem')`: to run a view method.
+  * `this.onEv('addTodo', '#state.newItem')`: to run a Wu setter with state value.
+  * `this.onEv(['addTodo', '#state.newItem'], ['setState', 'newItem', ''])`: to execute several methods followed.
 
 ## Setup and start
 
