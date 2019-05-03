@@ -12,10 +12,11 @@ In this example are used:
   * [Getter item](https://github.com/migueldelmazo/wu/blob/master/docs/documentation-getter.md)
   * [Setter item](https://github.com/migueldelmazo/wu/blob/master/docs/documentation-setter.md)
 * Wu React JS:
-  * `onChange()`: auto render method.
-  * `this.onEv('setState', 'newItem')`: to run a view method.
-  * `this.onEv('addTodo', '#state.newItem')`: to run a Wu setter with state value.
-  * `this.onEv(['addTodo', '#state.newItem'], ['setState', 'newItem', ''])`: to execute several methods followed.
+  * [`onChange():`](https://github.com/migueldelmazo/wu-reactjs#onchange) auto render method.
+  * [`this.onEv('setState', 'newItem')`:](https://github.com/migueldelmazo/wu-reactjs#onev) to run a view method.
+  * [`this.onEv('addTodo', '#state.newItem')`:](https://github.com/migueldelmazo/wu-reactjs#onev) to run a Wu setter with state value.
+  * [`this.onEv(['addTodo', '#state.newItem'], ['setState', 'newItem', ''])`:](https://github.com/migueldelmazo/wu-reactjs#onev) to execute several methods followed.
+  * [`this.getClassName()`:](https://github.com/migueldelmazo/wu-reactjs#getclassname) to render a class name easily.
 
 ## Setup and start
 

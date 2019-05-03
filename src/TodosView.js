@@ -1,7 +1,7 @@
 import React from 'react'
-import Component from 'wu-reactjs'
+import WuReact from 'wu-reactjs'
 
-export default class TodosView extends Component {
+export default class TodosView extends WuReact.Component {
 
   onChange() {
     // auto render when 'todos' model property changes
