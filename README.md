@@ -1,4 +1,5 @@
-# React JS module for [Wu framework](https://github.com/migueldelmazo/wu)
+# ToDo app developed with [Wu framework](https://github.com/migueldelmazo/wu)
+[![Wu](https://raw.githubusercontent.com/migueldelmazo/wu/master/resources/wu-logotype-03.png)](https://github.com/migueldelmazo/wu)
 
 This repository is an example of a **ToDo app** developed with
 [Wu](https://github.com/migueldelmazo/wu) and [Wu React JS](https://github.com/migueldelmazo/wu-reactjs).
